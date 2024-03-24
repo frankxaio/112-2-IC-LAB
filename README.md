@@ -1,0 +1,2 @@
+# 112-2-IC-LAB
+CGUEE IC 設計實驗
